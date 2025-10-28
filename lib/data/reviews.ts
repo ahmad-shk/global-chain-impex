@@ -1,0 +1,92 @@
+export const reviewsData = [
+  {
+    id: 1,
+    name: "Ahmed Ali",
+    rating: 5,
+    text: "Excellent quality salt products. Very satisfied with the service and delivery. Highly recommended!",
+  },
+  {
+    id: 2,
+    name: "Sana Khan",
+    rating: 5,
+    text: "Best Himalayan salt I've purchased. The purity and quality are outstanding. Will order again!",
+  },
+  {
+    id: 3,
+    name: "Fatima Chef",
+    rating: 5,
+    text: "Perfect for culinary use. The taste and mineral content are exactly what I was looking for.",
+  },
+  {
+    id: 4,
+    name: "Hassan Ahmed",
+    rating: 5,
+    text: "Great customer service and fast delivery. The product quality exceeded my expectations!",
+  },
+  {
+    id: 5,
+    name: "Zainab Malik",
+    rating: 5,
+    text: "Authentic Himalayan salt with amazing health benefits. Definitely worth the investment.",
+  },
+  {
+    id: 6,
+    name: "Muhammad Hassan",
+    rating: 5,
+    text: "Outstanding product quality and excellent packaging. Delivery was faster than expected!",
+  },
+  {
+    id: 7,
+    name: "Ayesha Malik",
+    rating: 5,
+    text: "I've been using this salt for 6 months now. The health benefits are remarkable and noticeable.",
+  },
+  {
+    id: 8,
+    name: "Bilal Khan",
+    rating: 5,
+    text: "Best investment for my family's health. Pure, authentic, and reasonably priced.",
+  },
+  {
+    id: 9,
+    name: "Hira Ahmed",
+    rating: 5,
+    text: "The mineral content is exactly as advertised. Very satisfied with the entire experience.",
+  },
+  {
+    id: 10,
+    name: "Karim Saeed",
+    rating: 5,
+    text: "Professional service from ordering to delivery. The product quality is consistently excellent.",
+  },
+  {
+    id: 11,
+    name: "Nida Farooq",
+    rating: 5,
+    text: "Highly recommend to anyone looking for authentic Himalayan salt. Worth every penny!",
+  },
+  {
+    id: 12,
+    name: "Rashid Ali",
+    rating: 5,
+    text: "Great quality and fast shipping. Customer support was very helpful and responsive.",
+  },
+  {
+    id: 13,
+    name: "Samina Khan",
+    rating: 5,
+    text: "Using this for cooking and health purposes. Both uses are giving excellent results.",
+  },
+  {
+    id: 14,
+    name: "Tariq Ahmed",
+    rating: 5,
+    text: "The best salt I've ever purchased. Purity and authenticity are guaranteed here.",
+  },
+  {
+    id: 15,
+    name: "Ummara Malik",
+    rating: 5,
+    text: "Fantastic product with amazing health benefits. Highly satisfied with my purchase!",
+  },
+]
